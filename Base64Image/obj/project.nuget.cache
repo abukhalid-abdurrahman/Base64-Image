@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "etsC6+HVjkHd94LqArFumoHbA0PSKVT90u1gkY0NAoRjjbnUmeDC7NoyE7+0zNCzR+y9AbCq+XyBRlnKKeuTxw==",
+  "success": true,
+  "projectFilePath": "E:\\Faridun's Projects\\Faridun's\\Back-End\\Console\\Base64Image\\Base64Image\\Base64Image.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
